@@ -27,8 +27,8 @@
 ### 🚀 Featured Projects
 | Repository | Description |
 |-------------|-------------|
-| [**AIS NOAA Research**](https://github.com/QuangManhAI/ais-noaa-research) | Research on ship trajectory prediction using AIS datasets from NOAA — LSTM & physics-guided models for trajectory forecasting |
-| [**FaceAI**](https://github.com/QuangManhAI/reg_face) | Face recognition + anti-spoofing system with YOLOv11-pt and MobileNetV2 fine-tuning |
+| [**AIS NOAA Research(private)**](https://github.com/QuangManhAI/ais-noaa-research) | Research on ship trajectory prediction using AIS datasets from NOAA — LSTM & physics-guided models for trajectory forecasting |
+| [**FaceAI**](https://github.com/QuangManhAI/reg_face) | Face recognition + anti-spoofing system with Facenet and MTCNN |
 | [**Labeling Tool**](https://github.com/QuangManhAI/labeling) | Web-based image labeling app using NestJS, Next.js and FastAPI model inference |
 | [**Điệp’s Dream Coffee**](https://github.com/QuangManhAI/coffee-platform) | Fullstack coffee-ordering platform integrating AI, backend services, and elegant UI design |
 
