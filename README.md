@@ -8,23 +8,23 @@
 
 ---
 
-### 🌱 About Me
-- 🎓 Researcher & Developer focusing on **AI systems**, **backend architectures**, and **data-driven applications**.  
-- 🧠 Skilled in **model development, evaluation, and optimization** — from data preprocessing to backend API deployment.  
-- 💡 Experienced with **NestJS / Next.js**, **FastAPI**, **PyTorch**, **MongoDB**, and scalable backend systems.  
-- 🚀 Main research: **Trajectory prediction with AIS NOAA datasets** — combining ML with physics-guided loss design.  
-- 🎨 Also passionate about UI/UX & branding — building creative digital experiences using **Canva** and **TailwindCSS**.  
+### About Me
+- Researcher & Developer focusing on **AI systems**, **backend architectures**, and **data-driven applications**.  
+- Skilled in **model development, evaluation, and optimization** — from data preprocessing to backend API deployment.  
+- Experienced with **NestJS / Next.js**, **FastAPI**, **PyTorch**, **MongoDB**, and scalable backend systems.  
+- Main research: **Trajectory prediction with AIS NOAA datasets** — combining ML with physics-guided loss design.  
+- Also passionate about UI/UX & branding — building creative digital experiences using **Canva** and **TailwindCSS**.  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,pytorch,nestjs,nextjs,linux,mongodb,git,github,docker,fastapi,vscode,canva&perline=7" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 | Repository | Description |
 |-------------|-------------|
 | [**AIS NOAA Research(private)**](https://github.com/QuangManhAI/ais-noaa-research) | Research on ship trajectory prediction using AIS datasets from NOAA — LSTM & physics-guided models for trajectory forecasting |
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧩 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuangManhAI&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangManhAI&layout=compact&theme=tokyonight" alt="langs" height="160"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🤖 Machine Learning & Backend Focus
+### Machine Learning & Backend Focus
 - Data preprocessing, feature engineering, and model training  
 - Backend integration for ML models (FastAPI, NestJS, Docker)  
 - Performance evaluation and post-training optimization  
@@ -52,7 +52,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="mailto:py.quangmanh.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manh-nhu-pham-quang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -61,4 +61,4 @@
 
 ---
 
-<p align="center">✨ Inspired by <a href="https://github.com/salesp07">salesp07</a> · Designed by <strong>Quang Mạnh</strong></p>
+<p align="center">Inspired by <a href="https://github.com/salesp07">salesp07</a> · Designed by <strong>Quang Mạnh</strong></p>
