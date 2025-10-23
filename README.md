@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuangManhAI/QuangManhAI/main/PROFILE/Coffee_chi_yeu.png" alt="Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/QuangManhAI/PROFILE/main/Coffee_chi_yeu.png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Quang Mạnh</h1>
