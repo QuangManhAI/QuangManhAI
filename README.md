@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./PROFILE/Coffee_chi_yeu(2).png" alt="Banner" width="800"/>
+  <img src="./PROFILE/Coffee_chi_yeu.png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Quang Mạnh</h1>
