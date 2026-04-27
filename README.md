@@ -18,15 +18,6 @@
 
 ---
 
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuangManhAI&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangManhAI&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
-
----
-
 ### Connect with Me
 <p align="center">
   <a href="mailto:py.quang.manh.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
