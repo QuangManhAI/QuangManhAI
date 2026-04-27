@@ -13,7 +13,9 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,solidity,rust,pytorch,nestjs,linux,macos,mongodb,postgresql,qdrant,redis,gcp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,ts,solidity,rust,pytorch,nestjs,hardhat,linux,apple,mongodb,postgres,redis,gcp&perline=7" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/qdrant/FF4D4D" alt="Qdrant" height="42" />
 </p>
 
 ---
