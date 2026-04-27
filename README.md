@@ -13,11 +13,9 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,solidity,rust,pytorch,hardhat,linux,mongodb,postgres,redis,gcp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,ts,solidity,rust,pytorch,nestjs,hardhat,linux,apple,mongodb,postgres,redis,gcp&perline=7" />
   <br/>
   <img src="https://cdn.simpleicons.org/qdrant/FF4D4D" alt="Qdrant" height="42" />
-  <br/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" alt="Claude" />
 </p>
 
 ---
