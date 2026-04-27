@@ -1,19 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/QuangManhAI/QuangManhAI/refs/heads/main/anh_1.png" alt="Banner" width="800"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Quang Mạnh</h1>
-<h3 align="center">AI · Machine Learning · Backend Focus · TypeScript · Python · Designer</h3>
+<h1 align="center">Hi, I'm Manh Nhu Pham Quang</h1>
+<h3 align="center">AI - BlockChain Researcher is my major</h3>
 
 ---
 
 ### About Me
-- Researcher & Developer focusing on **AI systems**, **backend architectures**, and **data-driven applications**.  
-- Skilled in **model development, evaluation, and optimization** — from data preprocessing to backend API deployment.  
-- Experienced with **NestJS / Next.js**, **FastAPI**, **PyTorch**, **MongoDB**, and scalable backend systems.  
-- Main research: **Trajectory prediction with AIS NOAA datasets** — combining ML with physics-guided loss design.  
-- Also passionate about UI/UX & branding — building creative digital experiences using **Canva** and **TailwindCSS**.  
+- Researcher & Developer focusing on **AI systems**, **BlockChain** and **data-driven applications**.
+- Current research: **Restore QR code with Tiny models: HybridQRUnet** 3 branchs include bitmodule, attention, vision.
+- Also passionate about **BlockChain** with Solidity, Rust, TypeScript - Web3 and DeAI.
 
 ---
 
@@ -24,15 +18,6 @@
 
 ---
 
-### Featured Projects
-| Repository | Description |
-|-------------|-------------|
-| [**AIS NOAA Research(private)**](https://github.com/QuangManhAI/ais-noaa-research) | Research on ship trajectory prediction using AIS datasets from NOAA — LSTM & physics-guided models for trajectory forecasting |
-| [**FaceAI**](https://github.com/QuangManhAI/reg_face) | Face recognition system with Facenet and MTCNN |
-| [**Labeling Tool**](https://github.com/QuangManhAI/labeling) | Web-based image labeling app using NestJS, Next.js and FastAPI model inference |
-| [**Điệp’s Dream Coffee**](https://github.com/QuangManhAI/coffee-platform) | Fullstack coffee-ordering platform integrating AI, backend services, and elegant UI design |
-
----
 
 ### GitHub Stats
 <p align="center">
@@ -42,19 +27,9 @@
 
 ---
 
-### Machine Learning & Backend Focus
-- Data preprocessing, feature engineering, and model training  
-- Backend integration for ML models (FastAPI, NestJS, Docker)  
-- Performance evaluation and post-training optimization  
-- Error analysis, model recovery, and bias mitigation  
-- API design and scalable data pipelines for inference  
-- Real-world research: **AIS NOAA trajectory prediction**
-
----
-
 ### Connect with Me
 <p align="center">
-  <a href="mailto:py.quangmanh.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:py.quang.manh.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manh-nhu-pham-quang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/QuangManhAI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
