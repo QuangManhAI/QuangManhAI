@@ -26,5 +26,3 @@
 </p>
 
 ---
-
-<p align="center">Inspired by <a href="https://github.com/salesp07">salesp07</a> · Designed by <strong>Quang Mạnh</strong></p>
